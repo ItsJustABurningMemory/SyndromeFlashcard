@@ -1,0 +1,5 @@
+{
+  "name": "VocaBoost VN",
+  "description": "An AI-powered English vocabulary learner that extracts words from documents and creates interactive flashcards with Vietnamese definitions and examples.",
+  "requestFramePermissions": []
+}
